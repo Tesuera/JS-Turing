@@ -1,0 +1,38 @@
+-- Client-side scripting language >> client side / server side
+-- Loosely type language >> strong type(static type)/ Loosely type(week type) -- data type
+        string 
+        number(int)
+        boolean 
+        undefined
+        null
+        array
+        object
+
+-- multi-paradigm programming language (paradigm == pattern)
+
+    imperative (wat thr hin
+                    wat thr
+                    masalar
+                    ingredients
+                )
+    declarative (
+                    money
+                )
+
+-- interpreted language >> interpreted / compiler (VM(virtual machine))
+-- high level language >> high / low (assembly/ c / c#)
+
+-- synchronous language (at the same time) >> asynchronous / synchronous
+
+Broswer >
+    1 rendering engine (html, css)
+    2 javascript engine (V8)
+
+How do js codes get executed?
+
+Machine >> Binary code (0, 1);
+
+Excution context(environment name)
+    1) parser(compiler) : code check (compilation error)
+    2) interpreter: transform (Ram htl thein) (human lan => Binary code) a = 01000001 = 65
+    3) VM => Code execute => response (runtime error)
